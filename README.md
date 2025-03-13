@@ -1,6 +1,6 @@
 ## <h2 align="left">Hi 👋! My name is Sahil Karn and I'm a Full Stack Web/Mobile App Developer.</h2>
-  ## <h1 align="left">Ypsilanti , MI USA .</h1>
-   ## <h1 align="left">+1 734-291-6822 </h1> 
+  ## <h4 align="left">Ypsilanti , MI USA .</h4>
+   ## <h4 align="left">+1 734-291-6822 </h4> 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif" />
 </p>
