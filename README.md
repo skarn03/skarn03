@@ -30,7 +30,7 @@
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://miro.medium.com/v2/resize:fit:1064/0*T7nlzhJ0eOb6YyVy.gif" width="50" />
+  <img src="https://miro.medium.com/v2/resize:fit:1064/0*T7nlzhJ0eOb6YyVy.gif" width="200" />
 </p>
 
 <div align="center">
