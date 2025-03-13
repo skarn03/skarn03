@@ -6,24 +6,32 @@
 </p>
 
 ### 🚀 About Me
+<p align="left">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50" />
+</p>
 👨‍💻 **Full Stack Developer** specializing in **React.js, Express.js, and Spring Boot**.<br>
 📌 **Founder** of **Saika Nepal** & **ShopAtBanau**, an **e-commerce builder** serving **7K+ users**.<br>
-🎓 ** Computer Science , Eastern Michigan University (EMU) 2026**.<br>
+🎓 **Computer Science , Eastern Michigan University (EMU) 2026**.<br>
 🎸 **Hobbies:** Photography, playing **guitar & drums**.<br>
 🌱 **Learning:** 3D Web Development with **Three.js, WebGL, and Fiber**.<br>
 
 ---
 
 ### 📊 GitHub Stats & Most Used Languages
+<p align="left">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50" />
+</p>
 
 <div align="start">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skarn03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
 
 ### 🛠 Tech Stack
+<p align="left">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" />
+</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -42,6 +50,9 @@
 ---
 
 ### 💼 Projects & Experience
+<p align="left">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="50" />
+</p>
 
 #### 🚀 **E-commerce Website Builder - [ShopAtBanau](https://shopatbanau.com)** *(Apr 2024 - Present)*
 - Developed a **responsive UI** using **React.js & Tailwind CSS**.
@@ -64,33 +75,18 @@
 
 ---
 
-### 🌎 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sahil-karn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sahilkarn03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/sahilkarn_17/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/lith_3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-</div>
-
----
-
 ### 🚀 Personal Portfolio 🌐
+<p align="center">
+  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="100" />
+</p>
 
 ✨ **Visit my portfolio** 👉 [skarn.dev](https://skarn.dev) ✨
 
 ---
 
-
----
-
 ### 🎸 Fun Fact
+<p align="left">
+  <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="50" />
+</p>
+
 > **When I'm not coding, I'm either playing my guitar, jamming on drums, or exploring new tech trends!** 🎵
