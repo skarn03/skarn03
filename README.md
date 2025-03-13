@@ -2,7 +2,7 @@
   ## <h4 align="left">Ypsilanti , MI USA .</h4>
    ## <h4 align="left">+1 734-291-6822 </h4> 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif)" width="500" alt="coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif)](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1068778a2b8dbcb2a0b1b13258bdb7ed-1681040096/IT_office_closeup_highres/create-a-pixel-art-illustration-or-gif.gif" width="500" alt="coding gif" />
 </p>
 
 ### 🚀 About Me
