@@ -2,7 +2,7 @@
   ## <h4 align="left">Ypsilanti , MI USA .</h4>
    ## <h4 align="left">+1 734-291-6822 </h4> 
 <p align="center">
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6016a2f184edaf900a7f86fa3db9c30-1661328032/Chompers_Twitter/make-pixel-art-anime-style-game-style-additional-animation.gif" width="500" alt="coding gif" />
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6016a2f184edaf900a7f86fa3db9c30-1661328032/Chompers_Twitter/make-pixel-art-anime-style-game-style-additional-animation.gif" width="800" alt="coding gif" />
 </p>
 
 ### 🚀 About Me
