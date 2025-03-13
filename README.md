@@ -2,13 +2,13 @@
   ## <h4 align="left">Ypsilanti , MI USA .</h4>
    ## <h4 align="left">+1 734-291-6822 </h4> 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif)" width="500" alt="coding gif" />
 </p>
 
 ### 🚀 About Me
 👨‍💻 **Full Stack Developer** specializing in **React.js, Express.js, and Spring Boot**.<br>
 📌 **Founder** of **Saika Nepal** & **ShopAtBanau**, an **e-commerce builder** serving **7K+ users**.<br>
-🎓 **Eastern Mediterranean University (EMU) 2026**.<br>
+🎓 ** Computer Science , Eastern Michigan University (EMU) 2026**.<br>
 🎸 **Hobbies:** Photography, playing **guitar & drums**.<br>
 🌱 **Learning:** 3D Web Development with **Three.js, WebGL, and Fiber**.<br>
 
