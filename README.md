@@ -9,11 +9,11 @@
 <p align="left">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50" />
 </p>
-👨‍💻 **Full Stack Developer** specializing in **React.js, Express.js, and Spring Boot**.<br>
-📌 **Founder** of **Saika Nepal** & **ShopAtBanau**, an **e-commerce builder** serving **7K+ users**.<br>
-🎓 **Computer Science , Eastern Michigan University (EMU) 2026**.<br>
-🎸 **Hobbies:** Photography, playing **guitar & drums**.<br>
-🌱 **Learning:** 3D Web Development with **Three.js, WebGL, and Fiber**.<br>
+👨‍💻 Full Stack Developer specializing in React.js, Express.js, and Spring Boot.<br>
+📌 Founder of Saika Nepa & ShopAtBanau, an e-commerce builder serving 7K+ users.<br>
+🎓 Computer Science , Eastern Michigan University (EMU) 2026.<br>
+🎸 Hobbies" Photography, playing guitar & drums.<br>
+🌱 Learning 3D Web Development with Three.js, WebGL, and Fiber.<br>
 
 ---
 
