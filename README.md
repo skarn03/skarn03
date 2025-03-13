@@ -89,10 +89,6 @@
 
 ---
 
-### 🐍 Contribution Graph Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/skarn03/skarn03/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
