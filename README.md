@@ -30,7 +30,7 @@
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" />
+  <img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif](https://cdnl.iconscout.com/lottie/premium/thumb/javascript-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--html-logo-coding-programming-mobile-development-pack-design-icons-9108736.gif)" width="50" />
 </p>
 
 <div align="center">
